@@ -21,19 +21,19 @@ I am a fullstack web developer who specializes in React and RESTful APIs with Ex
 
 Repos of mine you might like:
 
-[JavaScript -> Java Reference](https://github.com/Aaroneld/JavaReference)</br>
-[Conway's Game of Life](https://github.com/Aaroneld/ConwaysGameofLife)(implemented using React and HTML Canvas)
+**[JavaScript -> Java Reference](https://github.com/Aaroneld/JavaReference)</br>
+[Conway's Game of Life](https://github.com/Aaroneld/ConwaysGameofLife)** (implemented using React and HTML Canvas)
 
 Current areas of study include:
 
 - SVG + Animation
-- GSAP
-- SEO 
+- GSAP :green_book:
+- SEO :mag_right:
 - Docker/Kubernates :whale: 
-- OAuth 
-- Performance profiling
-- AWS (fundamentals) 
-- Responsiveness and Accessiblity 
+- OAuth :lock:
+- Performance profiling :zap:
+- AWS (fundamentals) :orange_book:
+- Responsiveness and Accessiblity :eyes:
 
 I am looking to collaborate on any project that strengthens core fullstack skills. Vue projects are also an area of interest. 
 
