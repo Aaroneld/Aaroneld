@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Aaron Merrifield,
+My name is Aaron Merrifield, 
+[LinkedIn](https://www.linkedin.com/in/aaroneld/)
 
 I am a fullstack web developer who specializes in React and RESTful APIs with Express/Spring Boot. I am open to new technologies!
 
