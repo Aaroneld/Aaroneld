@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 My name is Aaron Merrifield, </br>
 [LinkedIn](https://www.linkedin.com/in/aaroneld/)
 
-I am a fullstack web developer who specializes in React and RESTful APIs with Express/Spring Boot. I am open to new technologies!
+I am a software engineer who specializes in React and RESTful APIs with Express/Spring Boot. I am open to new technologies!
 
 Repos of mine you might like:
 
